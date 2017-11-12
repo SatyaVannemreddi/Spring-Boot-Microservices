@@ -1,0 +1,9 @@
+---
+server:
+  port: 8005
+
+zuul:
+  routes:
+    person:
+      path: /person/**
+      url: http://localhost:8002/person
