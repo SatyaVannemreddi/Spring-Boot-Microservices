@@ -1,4 +1,3 @@
-# SpringCloudEurekaServer
 <h1>Microservices</h1>
 
 Microservices is an architectural style that decomposes an application into a smaller, independent, and loosely coupled
