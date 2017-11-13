@@ -5,7 +5,7 @@ modules. Individual modules are responsible for highly defined and discrete task
 simple, universally accessible APIs. This architecture enables the continuous delivery/deployment of large, complex
 applications.
 
-gh-pages : https://user-images.githubusercontent.com/19601740/32704949-82a27018-c7d3-11e7-99bc-ac116ac5345a.jpeg
+<img src="https://user-images.githubusercontent.com/19601740/32704949-82a27018-c7d3-11e7-99bc-ac116ac5345a.jpeg" alt="microservices architecture 001" style="max-width:100%;">
 
 <b>Pros</b>
 
