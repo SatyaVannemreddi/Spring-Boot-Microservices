@@ -5,6 +5,8 @@ modules. Individual modules are responsible for highly defined and discrete task
 simple, universally accessible APIs. This architecture enables the continuous delivery/deployment of large, complex
 applications.
 
+https://user-images.githubusercontent.com/19601740/32704949-82a27018-c7d3-11e7-99bc-ac116ac5345a.jpeg
+
 <b>Pros</b>
 
 1. Microservice are relatively small, easy to understand for developers.
